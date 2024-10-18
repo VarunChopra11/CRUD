@@ -50,7 +50,7 @@ Make sure you have the following installed on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-repo-name/flask-mongo-api.git](https://github.com/VarunChopra11/CRUD.git)
+   git clone https://github.com/VarunChopra11/CRUD.git
    cd CRUD
    ```
 
